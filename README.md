@@ -11,7 +11,8 @@ A number of things can be built from here, including - in addition to the printe
 
 The idea of the printer is itself an hommage to the [Little Printer from Berg](https://www.failory.com/cemetery/berg) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IlC5taBgLp0?si=3HXCBTyb_Gr8--oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlC5taBgLp0?si=3HXCBTyb_Gr8--oA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 As for the Meshbot, this project updates several ideas and limits and scenarios in a new way. 
 We are not making "printer of the internet", you could easily do that in many other ways-
