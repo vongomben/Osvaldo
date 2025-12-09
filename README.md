@@ -1,5 +1,7 @@
 # Osvaldo
-Osvaldo is aimed to make ethreal messages physical, from the meshiverse 
+Osvaldo is aimed to make ethreal messages physical, from the meshiverse:
+
+![Osvaldo](./data/gif/Osvaldo.gif)
 
 It all stems from **[a thought](https://www.reddit.com/r/meshtastic/comments/1d07e7j/meshtastic_thermal_printer_ticker_tape_node/) I had a year ago: how to save and somehow record these ephemeral-ethereal messages in our absence?**
 
@@ -9,10 +11,7 @@ This project was an excuse to see how far a meshtastic radio could be integrated
 
 A number of things can be built from here, including - in addition to the printer from which we start - **a small bot capable of field operations**, or even **a very simple BBS** (Bulletin board system) **based on microntrollers**. 
 
-The idea of the printer is itself an hommage to the [Little Printer from Berg](https://www.failory.com/cemetery/berg) 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IlC5taBgLp0?si=3HXCBTyb_Gr8--oA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The idea of the printer is itself an hommage to the [Little Printer from Berg](https://www.failory.com/cemetery/berg) [Youtube Video](https://www.youtube.com/embed/IlC5taBgLp0?si=3HXCBTyb_Gr8--oA)
 
 As for the Meshbot, this project updates several ideas and limits and scenarios in a new way. 
 We are not making "printer of the internet", you could easily do that in many other ways-
@@ -103,6 +102,7 @@ You have to solder the LEDs in order to make them stay in the eye.
 Before connecting Osvaldo to the Mesh we have to test if it's printing and the LEDs are working:
 - Check the LEDs
 - Check the Printer
+- Test the final printer! 
 
 
 
