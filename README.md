@@ -101,7 +101,7 @@ You have to solder the LEDs in order to make them stay in the eye.
 
 Before connecting Osvaldo to the Mesh we have to test if it's printing and the LEDs are working:
 - Check the LEDs
-- Check the Printer
+- check connections (passive listener)
 - Test the final printer! 
 
 
