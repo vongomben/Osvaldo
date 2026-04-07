@@ -1,7 +1,7 @@
 # Osvaldo
 Osvaldo is aimed to make ethreal messages physical, from the meshiverse:
 
-![Osvaldo](./data/gif/Osvaldo.gif)
+![Osvaldo](./data/Osvaldo-Type/Osvaldo-Type.gif)
 
 It all stems from **[a thought](https://www.reddit.com/r/meshtastic/comments/1d07e7j/meshtastic_thermal_printer_ticker_tape_node/) I had a year ago: how to save and somehow record these ephemeral-ethereal messages in our absence?**
 
